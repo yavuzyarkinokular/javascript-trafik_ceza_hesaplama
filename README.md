@@ -1,5 +1,5 @@
 ## Trafik Ceza İndirimli Tutar Hesaplama
-### Bu yazdığım kod parçacığında amaç fonksiyonları ve koşul şart bloklarını kullanarak kullanıcıya indirimli tutarı göstermek
+#### Bu yazdığım kod parçacığında amaç fonksiyonları ve koşul şart bloklarını kullanarak kullanıcıya indirimli tutarı göstermek
 #### Kullanım aşaması:
 ```
 Kullanıcıya konsol aç uyarısı verilir. 
